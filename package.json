@@ -1,0 +1,10 @@
+{
+  "name": "space-burger",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build", "preview": "vite preview", "lint": "eslint ." },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "typescript": "latest", "react": "latest", "react-dom": "latest", "lucide-react": "latest" },
+  "devDependencies": { "eslint": "latest", "@eslint/js": "latest", "globals": "latest", "typescript-eslint": "latest", "@types/react": "latest", "@types/react-dom": "latest", "eslint-plugin-react-hooks": "latest", "eslint-plugin-react-refresh": "latest" }
+}
+
